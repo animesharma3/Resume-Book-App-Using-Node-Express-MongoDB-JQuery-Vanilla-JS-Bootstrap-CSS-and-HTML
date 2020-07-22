@@ -1,0 +1,54 @@
+{{!-- Builder --}}
+<form id="builder" action='/builder' method='POST' class='text-white'>
+    <div class="builder" id="about">
+        <span class='display-4'>About</span>
+        {{!-- Full Name, phone no, email, full address, Career Summary, Social Media Handles --}}
+        <div class="row mt-3">
+            <input type="text" name="first_name" id="first_name" class="form-control col mr-3" placeholder="First Name">
+            <input type="text" name="last_name" id="last_name" class="form-control col" placeholder="Last Name">
+        </div>
+        <div class="row mt-2">
+            <input type="email" name='email' id="email" class='form-control' placeholder="Email Address">
+        </div>
+        <div class="row mt-2">
+            <input type="number" name='country_code' id="country_code" class="form-control col-sm-2 mr-2"
+                placeholder="+91">
+            <input type="number" name='phone_no' id="phone_no" class='col form-control' placeholder="Phone number">
+        </div>
+        <div class="row mt-2 mb-3">
+            <textarea name="career-summary" id="career-summary" cols="30" rows="10" class='form-control'
+                placeholder="Enter your brief career summary..."></textarea>
+        </div>
+    </div>
+    <div class="builder" id="experience">
+        {{!--  --}}
+        <span class='display-4'>Experience</span>
+
+    </div>
+    <div class="builder" id="education">
+        <span class='display-4'>Education</span>
+
+    </div>
+    <div class="builder" id="skills">
+        <span class='display-4'>Skills</span>
+
+    </div>
+    <div class="builder" id="interests">
+        <span class='display-4'>Hobbies and Interests</span>
+
+    </div>
+    <div class="builder" id="certifications">
+        <span class='display-4'>Awards and certifications</span>
+
+    </div>
+    <div class="builder" id="select-templates">
+        <span class='display-4'>Templates</span>
+
+    </div>
+    <div style="overflow:auto;">
+        <div style="float:right;">
+            <button type="button" id="prev" onclick="nextPrev(-1)" class='btn btn-danger'>Previous</button>
+            <button type="button" id="next" onclick="nextPrev(1)" class='btn btn-primary'>Next</button>
+        </div>
+    </div>
+</form>
