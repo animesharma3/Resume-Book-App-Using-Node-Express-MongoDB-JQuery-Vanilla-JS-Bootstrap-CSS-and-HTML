@@ -62,13 +62,13 @@
         "skills": [
             "Python", "Javascript", "Nodejs", "Vuejs", "React Js", "Data Analysis", "Flask", "Django", "Bootstrap 5", "CSS", "HTML", "MongoDB", "Expressjs"
         ],
-        "Interests": [
+        "interests": [
             "Artificial Intelligence", "Machine Learning", "Data Science", "Deep Learning", "Web Development", "Fitness", "Public Speaking", "Sports", "Meditation", "Mindfullness", "People Skills", "Mixed Martial Arts", "Boxing", "Wrestling"
         ],
-        "Hobbies": [
+        "hobbies": [
             "Gyming", "Jump Rope", "Batminton", "Web Development", "Freelancing", "Personal Projects"
         ],
-        "Certifications": [
+        "certifications": [
             {
                 "name": "Hands on Machine Learning, Data Science and Deep Learning",
                 "issuing_organization": "Udemy",
