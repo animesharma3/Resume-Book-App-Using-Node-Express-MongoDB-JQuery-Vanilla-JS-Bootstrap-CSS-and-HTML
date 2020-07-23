@@ -1,0 +1,96 @@
+[
+    {
+        "first_name":  "Animesh",
+        "last_name": "Sharma",
+        "email": "animesharma3@gmail.com",
+        "country_code": "+91",
+        "phone_no": "7389666837",
+        "career_summary": "I am a full-stack web developer, an aspiring data scientist and a Machine learning and deep learning enthusiast. I am very proficient in designing and developing web apps from scratch. I am good at designing databases, rest apis and microservices as well as designing user interfaces. I am good at object oriented methodology.",
+        "address_line_1": "62 Karamchari Colony",
+        "address_line_2": "Station Road",
+        "country": "India",
+        "state": "Madhya Pradesh",
+        "city": "Dewas",
+
+        "linkedIn_url": "https://www.linkedin.com/in/animesh-sharma-73300a161/",
+        "github_url": "https://github.com/animesharma3/",
+        "facebook_url": "",
+        "twitter_url": "",
+        "instagram_url": "",
+        "website_url": "",
+
+        "education": [
+            {
+                "institute": "Shriv Vaishnav Vidhyapeeth Vishvavidhyalaya",
+                "degree": "Bachelor's of Computer Application",
+                "field_of_study": "Computer Science",
+                "start_year": "2018",
+                "end_year": "2021",
+                "gpa": "8.2"
+            }, 
+            {
+                "institute": "Sardana Public School", 
+                "degree": "12th",
+                "field_of_study": "Physics, Chemistry, Mathematics, English, Hindi",
+                "start_year": "2016",
+                "end_year": "2018",
+                "gpa": "82%"
+            }, 
+            {
+                "institute": "Holy Trinity School",
+                "degree": "10th",
+                "field_of_study": "Science, Mathematics, Social Science, English, Hindi",
+                "start_year": "2004",
+                "end_year": "2016",
+                "gpa": "7.8"
+            }
+        ],
+
+        "work_experience": [
+            {
+                "title": "Full Stack Web Developer",
+                "type": "Full-Time",
+                "company": "Microsoft",
+                "start_year": "2021",
+                "start_month": "January",
+                "end_year": "2022",
+                "end_month": "August",
+                "currently_working": "false",
+                "employer_name": "Satya Nadella"
+            }
+        ],
+        "skills": [
+            "Python", "Javascript", "Nodejs", "Vuejs", "React Js", "Data Analysis", "Flask", "Django", "Bootstrap 5", "CSS", "HTML", "MongoDB", "Expressjs"
+        ],
+        "Interests": [
+            "Artificial Intelligence", "Machine Learning", "Data Science", "Deep Learning", "Web Development", "Fitness", "Public Speaking", "Sports", "Meditation", "Mindfullness", "People Skills", "Mixed Martial Arts", "Boxing", "Wrestling"
+        ],
+        "Hobbies": [
+            "Gyming", "Jump Rope", "Batminton", "Web Development", "Freelancing", "Personal Projects"
+        ],
+        "Certifications": [
+            {
+                "name": "Hands on Machine Learning, Data Science and Deep Learning",
+                "issuing_organization": "Udemy",
+                "credential_expiring_date": "false",
+                "issue_month": "July",
+                "issue_year": "2020",
+                "expire_month": "",
+                "expire_year": "",
+                "credential_id": "",
+                "credential_url": "https://www.udemy.com/certificate/UC-ba743f06-a3ca-4dc5-8ed3-d051381087e5/"
+            },
+            {
+                "name": "Data Science and Machine Learning Workshop",
+                "issuing_organization": "Shri Vaishnav Vidyapeeth VishvaVidhyalaya",
+                "credential_expiring_date": "false",
+                "issue_month": "March",
+                "issue_year": "2020",
+                "expire_month": "",
+                "expire_year": "",
+                "credential_id": "",
+                "credential_url": "https://www.linkedin.com/posts/animesh-sharma-73300a161_animesharmaposts-animesharmaachievements-activity-6688690648171786240-k9gy/"
+            }
+        ]
+    }
+]
